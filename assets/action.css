@@ -1,0 +1,58 @@
+.actions{
+    text-decoration: none;
+    cursor: pointer;
+    padding-left: 50px;
+    color: white;
+    font-size: 25px;
+}
+.actions:hover{
+    color: rgb(0, 200, 255);
+}
+.action-button {
+    font: bold 30px sans-serif;
+    display: flex;
+    width: 50px;
+    color: #00000000;
+    user-select: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.action-button:hover {
+    color: white;
+    background-color: #00000099;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 1s;
+}
+.actions-saude {
+    color: rgb(8, 58, 8);
+    text-decoration: none;
+}
+
+.actions-saude:hover {
+    color: blue;
+}
+.link-ac {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    font-size: 20px;
+    width: 200px;
+}
+
+.link-ac:hover {
+    color: rgb(0, 200, 255);
+}
+.g1{
+
+color: #000;
+}
+.g1:hover{
+    color: rgb(0, 200, 255)
+}
+.links {
+    text-decoration: none;
+    color: black;
+}

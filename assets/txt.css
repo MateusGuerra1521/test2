@@ -1,0 +1,54 @@
+.textos {
+    margin-top: 100px;
+}
+.titulo-inicial {
+    font-size: 34px;
+}
+.titulo-inicial-sec {
+    font-size: 30px;
+
+}
+.titulo-grafico {
+    font-size: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.titulo {
+    justify-items: center;
+    display: flex;
+    text-align: center;
+    color: black;
+    font-size: 70px;
+    font-family: 'poor story';
+    width: 600px;
+    margin-left: 400px;
+}
+.texto {
+    position: relative;
+    color: black;
+    font-size: 25px;
+    font-family: 'poor story';
+    text-align: center;
+}
+.rodape {
+    position: relative;
+    top: 500px;
+}
+.titulot {
+    position: relative;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'poor story';
+}
+.textos {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'bitter';
+}
+
+.txt-video {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+}
